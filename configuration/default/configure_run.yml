@@ -2,7 +2,7 @@ restart_file: .na
 start_datetime: 2022-06-25 00:00:00
 end_datetime: .na
 forecast_start_datetime: 2022-06-26 00:00:00
-forecast_horizon: 21.0
+forecast_horizon: 16.0
 sim_name: tutorial_marylofton
 configure_flare: configure_flare.yml
 configure_obs: observation_processing.yml
